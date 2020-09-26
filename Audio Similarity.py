@@ -1,4 +1,3 @@
-# DATA420-19S2 Assignment 2
 
 # Audio Similarity
 
